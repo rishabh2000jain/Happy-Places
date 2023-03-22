@@ -1,0 +1,1 @@
+1. Add "MAPS_API_KEY" in the local.properties file to use features related to map. 

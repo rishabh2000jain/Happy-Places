@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CustomLoadingButton">
+        <attr name="ButtonText" format="string" localization="suggested" />
+        <attr name="FontSize" format="float" />
+        <attr name="TextColor" format="color" />
+        <attr name="BackgroundColor" format="color" />
+        <attr name="LoaderColor" format="color" />
+    </declare-styleable>
+</resources>
